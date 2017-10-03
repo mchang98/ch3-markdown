@@ -6,6 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
->"It's October 3rd.">
+>"It's October 3rd."
 
 https://www.shmoop.com/quotes/its-october-3rd.html
