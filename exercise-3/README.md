@@ -11,7 +11,6 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 See `complete` branch for answers.
 
 ## Local Git Process
-===
 ### git status
 The `git status` command is used to check on the current status of your code.  
 
@@ -19,7 +18,7 @@ To use this command, type in:
 `git status`
 
 After the command prompt ($) and this will show you a list of things.
-..You're in the repository
-..You're on the `master` branch
-..You're at the initial commit
-..The current changes or status of your commits
+*You're in the repository
+*You're on the `master` branch
+*You're at the initial commit
+*The current changes or status of your commits
